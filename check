@@ -1,0 +1,14 @@
+check:
+
+
+index.html: 
+    1. error- "witdth" changed to "width"
+
+about.html: 
+    1. error- attribute alt not allowed on element h1
+
+contact.html:
+    1. error- bad value for attribute action on element form: must be non-empty
+    2. error- bad value for attribute action on element img: The empty string is not a valid non-negative integer.
+    3. error- the value of the for attribute of the label element must be the ID of a non-hidden form control.
+    
