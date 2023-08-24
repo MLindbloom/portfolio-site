@@ -38,7 +38,7 @@ body {
 }
 
 header > img {
-    width: 400px;
+    width: 250px;
     height: auto;
     border-radius: 5%;
 }
@@ -353,7 +353,7 @@ table, th, td {
     }
 }
 
-@media all and (min-width: 500px) and (max-width: 750px){
+@media all and (min-width: 100px) and (max-width: 750px){
     .grid {
         -ms-grid-columns: 1fr 10px 1fr;
         grid-template-columns: 1fr 1fr;
