@@ -175,6 +175,14 @@ h3 {
   border-radius: 5%;
 }
 
+.dev-img {
+  width: 20vw;
+  height: auto;
+  margin-top: 20px;
+  margin-left: -5px;
+  border-radius: 20px;
+}
+
 .page-footer {
   clear: both;
   display: -webkit-box;
